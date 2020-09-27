@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "tags": [{
+        "name": "likvido-input",
+        "description": "Likvido input",
+        "properties": [],
+        "events": [],
+        "slots": [],
+        "cssProperties": [{
+            "name": "--likvido-font-family",
+            "description": "Font family",
+            "type": "Font"
+        }]
+    }]
+}
